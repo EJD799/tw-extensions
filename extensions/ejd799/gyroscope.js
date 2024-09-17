@@ -1,3 +1,10 @@
+//
+// Gyroscope Extension for Turbowarp
+// By EJD799 (cwkelliott47732 on Scratch)
+//
+// Licensed under:
+// Mozilla Public License Version 2.0
+//
 var is_running = false;
 var event_count = 0;
 var orient_a = 0;
